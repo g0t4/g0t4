@@ -1,8 +1,7 @@
 Courses:
 
-- WIP - Course Update (eta May 2021)
-  - update: Getting Started with Docker Swarm _link after publishing_ ([repo](https://github.com/g0t4/course2-swarm-gs))
-  - current: [Getting Started with Docker Swarm Mode](https://www.pluralsight.com/courses/docker-swarm-mode-getting-started) ([gist](https://gist.github.com/g0t4/1454ee7342d54aba5313ffc699d472ba) -> [repo](https://github.com/g0t4/docker-swarm-mode-getting-started)) 
+- (2nd Edition) [Getting Started with Docker Swarm (Mode)](https://app.pluralsight.com/courses/docker-swarm-getting-started/) ([repo](https://github.com/g0t4/course2-swarm-gs))
+  - (1st Edition) [Getting Started with Docker Swarm Mode](https://www.pluralsight.com/courses/docker-swarm-mode-getting-started) ([gist](https://gist.github.com/g0t4/1454ee7342d54aba5313ffc699d472ba) -> [repo](https://github.com/g0t4/docker-swarm-mode-getting-started)) 
 - [Managing Docker on Linux Servers](https://www.pluralsight.com/courses/managing-docker-linux-servers) ([repo](https://github.com/g0t4/course-managing-docker-linux-servers))
 - (2nd Edition) [Getting Started with Jenkins](https://www.pluralsight.com/courses/getting-started-jenkins) ([repo](https://github.com/g0t4/course-jenkins-getting-started))
   - (1st Edition) [Getting Started with Jenkins 2](https://www.pluralsight.com/courses/jenkins-2-getting-started)
