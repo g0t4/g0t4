@@ -1,4 +1,4 @@
-Courses:
+## Courses:
 
 - (2nd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2021/) ([repo](https://github.com/g0t4/course2-docker-windows-gs))
   - (1st Edition) [Getting Strated with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started) ([gist](https://gist.github.com/g0t4/0d97a9595c87736a8a72a2bd21afc0d9))
@@ -14,3 +14,12 @@ WIP: a full index of all courses -> materials
 
 See my [author page for a full list of courses](https://app.pluralsight.com/profile/author/wes-mcclure). 
 
+## Misc
+
+<body>
+
+<a target="_blank" href="https://www.credly.com/badges/c09a4f2e-8e51-4f9f-b9d6-c6d6d1110001/embedded">
+  <img width="105" height="105" alt="" src="https://images.credly.com/images/5a1ba86e-8a0f-44cb-b7e2-4c192480fedf/image.png">
+</a>
+
+</body>
