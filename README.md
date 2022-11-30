@@ -1,6 +1,7 @@
 ## Courses:
 
-- (2nd Edition) Coming Soon: `Getting Started with Vagrant` ([repo](https://github.com/g0t4/course2-vagrant-gs))
+- (2nd Edition) [Getting Started with Vagrant](https://www.pluralsight.com/courses/vagrant-getting-started) ([repo](https://github.com/g0t4/course2-vagrant-gs))
+  - (1st Edition) [Introduction to Versioning Environments With Vagrant](https://www.pluralsight.com/courses/vagrant-versioning-environments)
 - (1st Edition) [Introduction to the HashiCorp Consul Associate Certification](https://www.pluralsight.com/courses/hashicorp-consul-associate-intro-cert) _(no repo)_
 - (2nd Edition) [Getting Started with HashiCorp Consul](https://www.pluralsight.com/courses/hashicorp-consul-getting-started-cert) ([repo](https://github.com/g0t4/course2-consul-gs))
 - (2nd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2021) ([repo](https://github.com/g0t4/course2-docker-windows-gs))
