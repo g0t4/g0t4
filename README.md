@@ -1,5 +1,8 @@
 ## Courses:
 
+- (3rd Edition) Getting Started with Jenkins ([repo](https://github.com/g0t4/course3-jenkins-gs))
+  - (2nd Edition) [Getting Started with Jenkins](https://www.pluralsight.com/courses/getting-started-jenkins) ([repo](https://github.com/g0t4/course-jenkins-getting-started))
+  - (1st Edition) [Getting Started with Jenkins 2](https://www.pluralsight.com/courses/jenkins-2-getting-started)
 - (2nd Edition) [Getting Started with Vagrant](https://www.pluralsight.com/courses/vagrant-getting-started) ([repo](https://github.com/g0t4/course2-vagrant-gs))
   - (1st Edition) [Introduction to Versioning Environments With Vagrant](https://www.pluralsight.com/courses/vagrant-versioning-environments)
 - (1st Edition) [Introduction to the HashiCorp Consul Associate Certification](https://www.pluralsight.com/courses/hashicorp-consul-associate-intro-cert) _(no repo)_
@@ -9,8 +12,6 @@
 - (2nd Edition) [Getting Started with Docker Swarm](https://app.pluralsight.com/courses/docker-swarm-getting-started/) ([repo](https://github.com/g0t4/course2-swarm-gs))
   - (1st Edition) [Getting Started with Docker Swarm Mode](https://www.pluralsight.com/courses/docker-swarm-mode-getting-started) ([gist](https://gist.github.com/g0t4/1454ee7342d54aba5313ffc699d472ba) -> [repo](https://github.com/g0t4/docker-swarm-mode-getting-started)) 
 - [Managing Docker on Linux Servers](https://www.pluralsight.com/courses/managing-docker-linux-servers) ([repo](https://github.com/g0t4/course-managing-docker-linux-servers))
-- (2nd Edition) [Getting Started with Jenkins](https://www.pluralsight.com/courses/getting-started-jenkins) ([repo](https://github.com/g0t4/course-jenkins-getting-started))
-  - (1st Edition) [Getting Started with Jenkins 2](https://www.pluralsight.com/courses/jenkins-2-getting-started)
 - [Ansible Getting Started](https://www.pluralsight.com/courses/getting-started-ansible) ([repo](https://github.com/g0t4/course-ansible-getting-started))
 
 
