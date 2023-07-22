@@ -1,6 +1,6 @@
 ## Courses:
 
-- (3rd Edition) Getting Started with Jenkins ([repo](https://github.com/g0t4/course3-jenkins-gs))
+- (3rd Edition) Getting Started with Jenkins (link coming soon) ([repo](https://github.com/g0t4/course3-jenkins-gs))
   - (2nd Edition) [Getting Started with Jenkins](https://www.pluralsight.com/courses/getting-started-jenkins) ([repo](https://github.com/g0t4/course-jenkins-getting-started))
   - (1st Edition) [Getting Started with Jenkins 2](https://www.pluralsight.com/courses/jenkins-2-getting-started)
 - (2nd Edition) [Getting Started with Vagrant](https://www.pluralsight.com/courses/vagrant-getting-started) ([repo](https://github.com/g0t4/course2-vagrant-gs))
