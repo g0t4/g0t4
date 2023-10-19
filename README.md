@@ -2,7 +2,8 @@
 - (3rd Edition) TODO: Getting Started with Docker on Windows ([repo](https://github.com/g0t4/course3-docker-win-gs))
   - (2nd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2021) ([repo](https://github.com/g0t4/course2-docker-windows-gs))
   - (1st Edition) [Getting Strated with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started) ([gist](https://gist.github.com/g0t4/0d97a9595c87736a8a72a2bd21afc0d9))
-- TODO: (2nd Edition) Containers and Images: The Big Picture
+- (2nd Edition) [Containers and Images: The Big Picture](https://app.pluralsight.com/library/courses/containers-images-big-picture-2023/table-of-contents)
+  - [1st Edition](https://app.pluralsight.com/library/courses/containers-images-big-picture)
 - (3rd Edition) [Getting Started with Jenkins](https://www.pluralsight.com/courses/jenkins-getting-started-2023) ([repo](https://github.com/g0t4/course3-jenkins-gs))
   - (2nd Edition) [Getting Started with Jenkins](https://www.pluralsight.com/courses/getting-started-jenkins) ([repo](https://github.com/g0t4/course-jenkins-getting-started))
   - (1st Edition) [Getting Started with Jenkins 2](https://www.pluralsight.com/courses/jenkins-2-getting-started)
