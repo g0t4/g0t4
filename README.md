@@ -1,6 +1,6 @@
 ## Courses:
 - [Getting Started with NGINX](https://www.pluralsight.com/courses/nginx-getting-started) ([repo](https://github.com/g0t4/course-nginx-gs))
-- (3rd Edition) TODO: Getting Started with Docker on Windows ([repo](https://github.com/g0t4/course3-docker-win-gs))
+- (3rd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2023) ([repo](https://github.com/g0t4/course3-docker-win-gs))
   - (2nd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2021) ([repo](https://github.com/g0t4/course2-docker-windows-gs))
   - (1st Edition) [Getting Strated with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started) ([gist](https://gist.github.com/g0t4/0d97a9595c87736a8a72a2bd21afc0d9))
 - (2nd Edition) [Containers and Images: The Big Picture](https://app.pluralsight.com/library/courses/containers-images-big-picture-2023/table-of-contents)
