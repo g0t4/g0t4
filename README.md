@@ -1,4 +1,6 @@
 ## Courses:
+- (2nd Edition) Managing Docker on Linux Servers (WIP) ([repo](https://github.com/g0t4/course2-mdls))
+  - [1st Edition](https://www.pluralsight.com/courses/managing-docker-linux-servers) ([repo](https://github.com/g0t4/course-managing-docker-linux-servers))
 - [Getting Started with NGINX](https://www.pluralsight.com/courses/nginx-getting-started) ([repo](https://github.com/g0t4/course-nginx-gs))
 - (3rd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2023) ([repo](https://github.com/g0t4/course3-docker-win-gs))
   - (2nd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2021) ([repo](https://github.com/g0t4/course2-docker-windows-gs))
@@ -16,7 +18,6 @@
 - (2nd Edition) [Getting Started with HashiCorp Consul](https://www.pluralsight.com/courses/hashicorp-consul-getting-started-cert) ([repo](https://github.com/g0t4/course2-consul-gs))
 - (2nd Edition) [Getting Started with Docker Swarm](https://app.pluralsight.com/courses/docker-swarm-getting-started/) ([repo](https://github.com/g0t4/course2-swarm-gs))
   - (1st Edition) [Getting Started with Docker Swarm Mode](https://www.pluralsight.com/courses/docker-swarm-mode-getting-started) ([gist](https://gist.github.com/g0t4/1454ee7342d54aba5313ffc699d472ba) -> [repo](https://github.com/g0t4/docker-swarm-mode-getting-started)) 
-- [Managing Docker on Linux Servers](https://www.pluralsight.com/courses/managing-docker-linux-servers) ([repo](https://github.com/g0t4/course-managing-docker-linux-servers))
 
 
 WIP: a full index of all courses -> materials
