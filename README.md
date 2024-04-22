@@ -1,6 +1,6 @@
 ## Courses:
 - WIP https://github.com/g0t4/course-jenkins-k8s
-- (2nd Edition) Managing Docker on Linux Servers (WIP) ([repo](https://github.com/g0t4/course2-mdls))
+- (2nd Edition) Managing Docker on Linux Servers (TODO LINK) ([repo](https://github.com/g0t4/course2-mdls))
   - [1st Edition](https://www.pluralsight.com/courses/managing-docker-linux-servers) ([repo](https://github.com/g0t4/course-managing-docker-linux-servers))
 - [Getting Started with NGINX](https://www.pluralsight.com/courses/nginx-getting-started) ([repo](https://github.com/g0t4/course-nginx-gs))
 - (3rd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2023) ([repo](https://github.com/g0t4/course3-docker-win-gs))
