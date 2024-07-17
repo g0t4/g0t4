@@ -2,25 +2,26 @@
 - [Authoring and Maintaining GitHub Actions Workflows](https://www.pluralsight.com/courses/github-actions-authoring-maintaining-workflows) ([repo](https://github.com/g0t4/course-gh-actions))
 - [Running Jenkins in Kubernetes](https://www.pluralsight.com/courses/jenkins-kubernetes-running) ([repo](https://github.com/g0t4/course-jenkins-k8s))
 - (2nd Edition) [Managing Docker on Linux Servers](https://www.pluralsight.com/courses/docker-linux-servers-managing) ([repo](https://github.com/g0t4/course2-mdls))
-  - [1st Edition](https://www.pluralsight.com/courses/managing-docker-linux-servers) ([repo](https://github.com/g0t4/course-managing-docker-linux-servers))
+  - [1st Edition](https://www.pluralsight.com/courses/managing-docker-linux-servers) ([repo](https://github.com/g0t4/course-managing-docker-linux-servers))*
 - [Getting Started with NGINX](https://www.pluralsight.com/courses/nginx-getting-started) ([repo](https://github.com/g0t4/course-nginx-gs))
 - (3rd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2023) ([repo](https://github.com/g0t4/course3-docker-win-gs))
-  - (2nd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2021) ([repo](https://github.com/g0t4/course2-docker-windows-gs))
-  - (1st Edition) [Getting Strated with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started) ([gist](https://gist.github.com/g0t4/0d97a9595c87736a8a72a2bd21afc0d9))
+  - (2nd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2021) ([repo](https://github.com/g0t4/course2-docker-windows-gs))*
+  - (1st Edition) [Getting Strated with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started) ([gist](https://gist.github.com/g0t4/0d97a9595c87736a8a72a2bd21afc0d9))*
 - (2nd Edition) [Containers and Images: The Big Picture](https://www.pluralsight.com/library/courses/containers-images-big-picture-2023/table-of-contents)
-  - [1st Edition](https://www.pluralsight.com/library/courses/containers-images-big-picture)
+  - [1st Edition](https://www.pluralsight.com/library/courses/containers-images-big-picture)*
 - (3rd Edition) [Getting Started with Jenkins](https://www.pluralsight.com/courses/jenkins-getting-started-2023) ([repo](https://github.com/g0t4/course3-jenkins-gs))
-  - (2nd Edition) [Getting Started with Jenkins](https://www.pluralsight.com/courses/getting-started-jenkins) ([repo](https://github.com/g0t4/course-jenkins-getting-started))
-  - (1st Edition) [Getting Started with Jenkins 2](https://www.pluralsight.com/courses/jenkins-2-getting-started)
+  - (2nd Edition) [Getting Started with Jenkins](https://www.pluralsight.com/courses/getting-started-jenkins) ([repo](https://github.com/g0t4/course-jenkins-getting-started))*
+  - (1st Edition) [Getting Started with Jenkins 2](https://www.pluralsight.com/courses/jenkins-2-getting-started)*
 - (2nd Edition) [Getting Started with Ansible](https://www.pluralsight.com/courses/ansible-getting-started) ([repo](https://github.com/g0t4/course2-ansible-gs))
-  - (1st Edition) [Getting Started with Ansible](https://www.pluralsight.com/library/courses/getting-started-ansible/table-of-contents) ([repo](https://github.com/g0t4/course-ansible-getting-started))
+  - (1st Edition) [Getting Started with Ansible](https://www.pluralsight.com/library/courses/getting-started-ansible/table-of-contents) ([repo](https://github.com/g0t4/course-ansible-getting-started))*
 - (2nd Edition) [Getting Started with Vagrant](https://www.pluralsight.com/courses/vagrant-getting-started) ([repo](https://github.com/g0t4/course2-vagrant-gs))
-  - (1st Edition) [Introduction to Versioning Environments With Vagrant](https://www.pluralsight.com/courses/vagrant-versioning-environments)
+  - (1st Edition) [Introduction to Versioning Environments With Vagrant](https://www.pluralsight.com/courses/vagrant-versioning-environments)*
 - (1st Edition) [Introduction to the HashiCorp Consul Associate Certification](https://www.pluralsight.com/courses/hashicorp-consul-associate-intro-cert) _(no repo)_
 - (2nd Edition) [Getting Started with HashiCorp Consul](https://www.pluralsight.com/courses/hashicorp-consul-getting-started-cert) ([repo](https://github.com/g0t4/course2-consul-gs))
 - (2nd Edition) [Getting Started with Docker Swarm](https://www.pluralsight.com/courses/docker-swarm-getting-started/) ([repo](https://github.com/g0t4/course2-swarm-gs))
-  - (1st Edition) [Getting Started with Docker Swarm Mode](https://www.pluralsight.com/courses/docker-swarm-mode-getting-started) ([gist](https://gist.github.com/g0t4/1454ee7342d54aba5313ffc699d472ba) -> [repo](https://github.com/g0t4/docker-swarm-mode-getting-started)) 
+  - (1st Edition) [Getting Started with Docker Swarm Mode](https://www.pluralsight.com/courses/docker-swarm-mode-getting-started) ([gist](https://gist.github.com/g0t4/1454ee7342d54aba5313ffc699d472ba) -> [repo](https://github.com/g0t4/docker-swarm-mode-getting-started))*
 
+_* FYI to access past editions you have to login to Pluralsight, anonymouse users can't see the course page._
 
 WIP: a full index of all courses -> materials
 
