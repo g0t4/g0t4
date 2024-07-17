@@ -1,6 +1,6 @@
 ## Courses:
 - [Authoring and Maintaining GitHub Actions Workflows](https://www.pluralsight.com/courses/github-actions-authoring-maintaining-workflows) ([repo](https://github.com/g0t4/course-gh-actions))
-- [Running Jenkins in Kubernetes](https://app.pluralsight.com/library/courses/jenkins-kubernetes-running) ([repo](https://github.com/g0t4/course-jenkins-k8s))
+- [Running Jenkins in Kubernetes](https://www.pluralsight.com/courses/jenkins-kubernetes-running) ([repo](https://github.com/g0t4/course-jenkins-k8s))
 - (2nd Edition) Managing Docker on Linux Servers (TODO LINK) ([repo](https://github.com/g0t4/course2-mdls))
   - [1st Edition](https://www.pluralsight.com/courses/managing-docker-linux-servers) ([repo](https://github.com/g0t4/course-managing-docker-linux-servers))
 - [Getting Started with NGINX](https://www.pluralsight.com/courses/nginx-getting-started) ([repo](https://github.com/g0t4/course-nginx-gs))
