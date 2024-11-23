@@ -1,3 +1,9 @@
+## Find me...
+
+- YouTube [@g0t4](https://www.youtube.com/g0t4)
+- Twitch [@g0t4](https://www.twitch.tv/g0t4)
+- X [@g0t4](https://x.com/g0t4)
+
 ## Courses:
 - [Authoring and Maintaining GitHub Actions Workflows](https://www.pluralsight.com/courses/github-actions-authoring-maintaining-workflows) ([repo](https://github.com/g0t4/course-gh-actions))
 - [Running Jenkins in Kubernetes](https://www.pluralsight.com/courses/jenkins-kubernetes-running) ([repo](https://github.com/g0t4/course-jenkins-k8s))
