@@ -9,7 +9,10 @@
 - [Summarize Data in Microsoft Excel](https://app.pluralsight.com/library/courses/microsoft-excel-summarize-data/table-of-contents) ([repo](https://github.com/g0t4/course-excel-sum))
 - [Authoring and Maintaining GitHub Actions Workflows](https://www.pluralsight.com/courses/github-actions-authoring-maintaining-workflows) ([repo](https://github.com/g0t4/course-gh-actions))
 - [Running Jenkins in Kubernetes](https://www.pluralsight.com/courses/jenkins-kubernetes-running) ([repo](https://github.com/g0t4/course-jenkins-k8s))
-- (2nd Edition) [Managing Docker on Linux Servers](https://www.pluralsight.com/courses/docker-linux-servers-managing) ([repo](https://github.com/g0t4/course2-mdls))
+- (2nd Edition)
+  - 2 Choicess
+    - [A Cloud Guru - Managing Docker on Linux Servers](https://learn.acloud.guru/course/d33a7cef-c6da-4815-943f-b3a21e391f25/dashboard) 
+    - [Pluralsight - Managing Docker on Linux Servers](https://www.pluralsight.com/courses/docker-linux-servers-managing) ([repo](https://github.com/g0t4/course2-mdls))
   - [1st Edition](https://www.pluralsight.com/courses/managing-docker-linux-servers) ([repo](https://github.com/g0t4/course-managing-docker-linux-servers))*
 - [Getting Started with NGINX](https://www.pluralsight.com/courses/nginx-getting-started) ([repo](https://github.com/g0t4/course-nginx-gs))
 - (3rd Edition) [Getting Started with Docker on Windows](https://www.pluralsight.com/courses/docker-windows-getting-started-2023) ([repo](https://github.com/g0t4/course3-docker-win-gs))
