@@ -5,7 +5,7 @@
 - X [@g0t4](https://x.com/g0t4)
 
 ## Courses:
-
+- [Explore DevOps AI Tools](WIP) ([repo](https://github.com/g0t4/course-ai-devops))
 - [Microservices with Docker](https://app.pluralsight.com/library/courses/microservices-with-docker/table-of-contents) ([repo](https://github.com/g0t4/course-microservices-with-docker))
 - [Deploying a Containerized Application with Docker](https://app.pluralsight.com/library/courses/deploying-containerized-application-docker/table-of-contents) ([repo](https://github.com/g0t4/course-deploying-containerized-application-docker))
 - [DevOps Containerization and Orchestration: Deploying Containers](https://app.pluralsight.com/library/courses/devops-containerization-orchestration-deploying-containers/table-of-contents) ([repo](https://github.com/g0t4/course-deploy-containers))
