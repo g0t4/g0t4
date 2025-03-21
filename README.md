@@ -6,6 +6,10 @@
 
 ## Courses:
 
+- [Microservices with Docker](https://app.pluralsight.com/library/courses/microservices-with-docker/table-of-contents) ([repo](https://github.com/g0t4/course-microservices-with-docker))
+- [Deploying a Containerized Application with Docker](https://app.pluralsight.com/library/courses/deploying-containerized-application-docker/table-of-contents) ([repo](https://github.com/g0t4/course-deploying-containerized-application-docker))
+- [DevOps Containerization and Orchestration: Deploying Containers](https://app.pluralsight.com/library/courses/devops-containerization-orchestration-deploying-containers/table-of-contents) ([repo](https://github.com/g0t4/course-deploy-containers))
+- [Enabling Secure Software Development in GitHub](https://app.pluralsight.com/library/courses/github-enabling-secure-software-development/table-of-contents) ([repo](https://github.com/g0t4/course-gh-secure-dev))
 - [Summarize Data in Microsoft Excel](https://app.pluralsight.com/library/courses/microsoft-excel-summarize-data/table-of-contents) ([repo](https://github.com/g0t4/course-excel-sum))
 - [Authoring and Maintaining GitHub Actions Workflows](https://www.pluralsight.com/courses/github-actions-authoring-maintaining-workflows) ([repo](https://github.com/g0t4/course-gh-actions))
 - [Running Jenkins in Kubernetes](https://www.pluralsight.com/courses/jenkins-kubernetes-running) ([repo](https://github.com/g0t4/course-jenkins-k8s))
@@ -48,4 +52,4 @@ See my [author page for a full list of courses](https://www.pluralsight.com/prof
 
 ## template:
 
-- [title](https://app.pluralsight.com/library/courses/***/table-of-contents) ([repo](https://github.com/g0t4/course-***))
+- [title](link) ([repo](https://github.com/g0t4/course-***))
